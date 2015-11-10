@@ -1,0 +1,4 @@
+---
+photo: blue.png
+---
+Parce que "ça fait plaisir aux vieux".

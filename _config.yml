@@ -1,0 +1,8 @@
+name: Marion et Clément
+markdown: redcarpet
+highlighter: pygments
+permalink: /:category/:title/
+url: http://marionetclement.net
+author:
+    name: Clément Dietschy
+    twitter: @bedhed1

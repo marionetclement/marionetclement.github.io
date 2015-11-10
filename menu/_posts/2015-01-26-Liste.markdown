@@ -1,0 +1,4 @@
+---
+photo: white.png
+---
+Mais si vous venez les mains vides c'est pas grave&nbsp;!

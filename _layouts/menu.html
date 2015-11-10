@@ -1,0 +1,31 @@
+{% include head.html %}
+  <body>
+     <div class="container">
+	<header class="clearfix">
+		<h1>{{ site.name }}</h1>
+	</header>
+	<div id="grid-gallery" class="grid-gallery">
+
+	<section class="grid-wrap">
+	<ul class="grid">
+		<li class="grid-sizer"></li><!-- for Masonry column width -->
+		{% for post in site.categories.menu %}
+		<li>
+			<a href="{{ post.title }}">
+				<figure>
+					<img src="/img/thumb/{{ post.photo }}" alt="img"/>
+					<figcaption>
+						<h3>{{ post.title}}</h3>
+						<p>{{ post.excerpt }}</p>
+					</figcaption>
+			</figure>
+			</a>
+		</li>
+		{% endfor %}
+	</ul>
+	</section><!-- // grid-wrap -->
+
+	</div><!-- // grid-gallery -->
+      </div>
+  </body>
+</html>
