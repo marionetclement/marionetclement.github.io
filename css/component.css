@@ -63,7 +63,7 @@
 }
 
 .grid figcaption {
-	background: #f6f4f3;
+	background: #f1efee;
 	padding: 25px;
 }
 
@@ -167,7 +167,7 @@
 .slideshow nav span {
 	position: fixed;
 	z-index: 1000;
-	color: #fff;
+	color: #f57857;
 	text-align: center;
 	padding: 3%;
 	cursor: pointer;
@@ -189,7 +189,7 @@
 	top: 0;
 	right: 0;
 	padding: 0.5em 1em;
-	color: #fff;
+	color: #f57857;
 }
 
 .icon:before,
@@ -287,13 +287,13 @@ span.nav-close:before {
 
 }
 
-@media screen and (max-width: 35em) {
+@media screen and (max-width: 40em) {
 	.grid li {
 		width: 50%;
 	}
 }
 
-@media screen and (max-width: 24em) {
+@media screen and (max-width: 30em) {
 	.grid li {
 		width: 100%;
 	}
