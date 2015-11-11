@@ -13,7 +13,7 @@
 		<li>
 			<a href="{{ post.title | downcase }}">
 				<figure>
-					<img src="/img/thumb/{{ post.photo }}" alt="img"/>
+					<img src="/menu/thumb/{{ post.photo }}" alt="img"/>
 					<figcaption>
 						<h3>{{ post.title}}</h3>
 						<p>{{ post.excerpt }}</p>
@@ -25,7 +25,17 @@
 	</ul>
 	</section><!-- // grid-wrap -->
 
+	<section class="slideshow">
+	</section>
+
 	</div><!-- // grid-gallery -->
       </div>
+    <script src="/js/imagesloaded.pkgd.min.js"></script>
+    <script src="/js/masonry.pkgd.min.js"></script>
+    <script src="/js/classie.js"></script>
+    <script src="/js/cbpGridGalleryLight.js"></script>
+    <script>
+      new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
+    </script>
   </body>
 </html>

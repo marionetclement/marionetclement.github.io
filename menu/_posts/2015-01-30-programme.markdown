@@ -1,4 +1,4 @@
 ---
-photo: white.png
+photo: programme.jpg
 ---
-Que va-t-il donc se passer le 18 juin ?
+Si tout se passe bien, le 18 juin se déroule ainsi.

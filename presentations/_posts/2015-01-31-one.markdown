@@ -1,8 +1,0 @@
----
-photo: blue.png
-title: Marion et Clement
----
-Marion est médecin et Clément est ingénieur.
-
-
-Mais on fait aussi pleins d'autre choses.

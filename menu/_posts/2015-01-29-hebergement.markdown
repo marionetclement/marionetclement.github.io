@@ -1,4 +1,4 @@
 ---
-photo: blue.png
+photo: hebergement.jpg
 ---
-Quelques lieux de repos que nous vous conseillons.
+Si certains d'entre vous comptent dormir, quelques solutions.

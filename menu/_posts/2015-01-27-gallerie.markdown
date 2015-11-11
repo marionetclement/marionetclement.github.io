@@ -1,4 +1,4 @@
 ---
-photo: blue.png
+photo: gallerie.jpg
 ---
-Parce que "ça fait plaisir aux vieux".
+Quelques moments que nous aimons nous remémorer.

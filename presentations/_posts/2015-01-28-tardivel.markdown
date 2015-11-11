@@ -1,0 +1,5 @@
+---
+photo: blue.png
+title: Francoise et Jean
+---
+Françoise Boulmer et Jean Tardivel se sont marié un 26 décembre 1955 à Versailles.
