@@ -11,7 +11,7 @@
 		<li class="grid-sizer"></li><!-- for Masonry column width -->
 		{% for post in site.categories.menu %}
 		<li>
-			<a href="{{ post.title }}">
+			<a href="{{ post.title | downcase }}">
 				<figure>
 					<img src="/img/thumb/{{ post.photo }}" alt="img"/>
 					<figcaption>

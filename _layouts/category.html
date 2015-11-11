@@ -9,7 +9,7 @@
         <section class="grid-wrap">
         <ul class="grid">
                 <li class="grid-sizer"></li><!-- for Masonry column width -->
-                {% for post in site.categories[page.title] %}
+                {% for post in site.categories[page.category] %}
                 <li>
                         <figure>
                                 <img src="thumb/{{ post.photo }}" alt="img"/>
@@ -25,7 +25,7 @@
 
         <section class="slideshow">
         <ul>
-                {% for post in site.categories[page.title] %}
+                {% for post in site.categories[page.category] %}
                 <li>
                         <figure>
                                 <img src="large/{{ post.photo }}" alt="img"/>
