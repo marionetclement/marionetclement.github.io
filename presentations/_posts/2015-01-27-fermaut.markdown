@@ -1,5 +1,0 @@
----
-photo: white.png
-title: Roger
----
-Agriculteur de profession, Roger vit à Locon dans le nord. Il fait froid dans le nord.
