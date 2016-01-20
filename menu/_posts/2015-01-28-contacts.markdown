@@ -1,4 +1,4 @@
 ---
-photo: blue.png
+photo: white.png
 ---
 LA page la plus utile de ce site.

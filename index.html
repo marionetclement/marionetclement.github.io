@@ -1,43 +1,39 @@
-<html>
-	<head>
-		<title>Marion et Cl&eacute;ment</title>
-		<style>
-			div {
-				height: 600px;
-				width: 600px;
-				margin: 8% auto 0;
-				padding: 30px;
-				border: 1px solid #cccccc;
-			}
-			img {
-				border:none;
-				width: 600px;
-				height: 600px;
-			}
-			p {
-				text-align: right;
-				font-family: raleway, verdana, arial, sans-serif;
-				width: 660px;
-				margin: 5px auto;
-				padding: 0;
-				text-transform: uppercase;
-				font-weight: normal;
-				font-size: 0.8em;
-				color: #cccccc;
-			}
-			a {
-				color: #cccccc;
-				text-decoration: none;
-			}
-			a:hover {
-				text-decoration: underline;
-			}
-		</style>
-	</head>
-	<body>
+---
+layout: null
+title: Bienvenue
+---
+{% include head.html %}
+	<body class="landing-lock">
+		<div class="container">
+       			<header class="clearfix">
+                		<h1><a href="/">Marion <span>et</span> Clement</a></h1>
+        		</header>
+			<div id="grid-gallery" class="grid-gallery">
+				<section class="grid-wrap">
+					<ul class="grid">
+						<li class="grid-sizer"></li><!-- for Masonry column width -->
+						<li>
+							<figure>
+								<img id="heartlock" src="/img/lock.png">
+							</figure>
+						</li>
+						<li class="expand">
+							Entre Deux, vous avez le choix,<br/>
+							Mais au moins Un, il vous faudra.<br/>
+							Pour ouvrir, là, vous l'écrivez,</br>
+							Le <strong>Patronyme</strong> d'un des mariés* :
+							<form>
+								<input id="key" name="key" type="text" autofocus>
+							</form>
+							<p class="small"><strong>*</strong> (futurs)</span>
+						</li>
+					</ul>
+				</section>
+			</div>
 		<div>
-			<img src="/img/large/us.jpg">
-		</div>
-		<p><a href="mailto:clement.dietschy@gmail.com">Contactez-nous !</a></p>
+		<script src="/js/lock.js"></script>
+    		<script src="/js/imagesloaded.pkgd.min.js"></script>
+    		<script src="/js/masonry.pkgd.min.js"></script>
+    		<script src="/js/classie.js"></script>
 	</body>
 </html>

@@ -71,6 +71,34 @@ a:hover {
 	text-transform: uppercase;
 }
 
+.landing-lock li {
+
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-size: 1.3333em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.landing-lock li p.small {
+	text-transform: none;
+	font-size: 0.6em;
+	text-align: right;
+	margin-top: 7em;
+}
+
+#key {
+	padding-top: 1em;
+	margin: 0 10%;
+	border: none;
+	border-bottom: 1px dotted  #26396d;
+   	font-family: 'Nella Sue Demo', Serif;
+	font-weight: 300;
+	font-size: 2em;
+	width: 80%;
+	text-align: center;
+	
+}
+
 
 .container > header > span {
 	display: block;
@@ -176,6 +204,54 @@ p.back {
 .container > header nav a:hover:after {
 	color: #fff;
 }
+
+#heartlock {
+	margin-right: 3em;
+	opacity: 1;
+	transition: ease-in-out;
+	-moz-transition: ease-in-out;
+	-webkit-transition: ease-in-out;
+}
+
+@keyframes tilt {
+	0%   {
+		-ms-transform: rotate(0deg);
+    		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+		opacity: 1;
+	}
+	20%  {
+		-ms-transform: rotate(121deg);
+    		-webkit-transform: rotate(12deg);
+		transform: rotate(12deg);
+		opacity: 1;
+	}
+	40%  {
+		-ms-transform: rotate(-12deg);
+    		-webkit-transform: rotate(-12deg);
+		transform: rotate(-12deg);
+		opacity: 1;
+	}
+	60%  {
+		-ms-transform: rotate(0deg);
+    		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+		opacity: 1;
+	}
+	100%  {
+		-ms-transform: rotate(0deg);
+    		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+		opacity: 0;
+	}
+}
+
+#heartlock.fade {
+    	animation-name: tilt;
+	animation-duration: 1.5s;
+}
+
+
 
 .bp-icon-next:after {
 	content: "\e000";

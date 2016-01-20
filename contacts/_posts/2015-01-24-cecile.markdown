@@ -1,0 +1,6 @@
+---
+photo: cecile.jpg
+title: Cecile Morin
+---
+[cess.morin@gmail.com](mailto:cess.morin@gmail.com)
+[06 14 99 29 18](tel:+33614992918)

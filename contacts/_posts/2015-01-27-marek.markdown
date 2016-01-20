@@ -1,0 +1,6 @@
+---
+photo: marek.jpg
+title: Marek Kubista
+---
+[kubista.marek@hotmail.com](mailto:kubista.marek@hotmail.com)
+[06 71 57 30 42](tel:+33671573042)
