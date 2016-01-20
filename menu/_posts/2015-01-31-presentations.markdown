@@ -1,4 +1,4 @@
 ---
 photo: presentations.jpg
 ---
-Nous, nos familles et nos témoins.
+En théorie, vous en savez déjà la moitié !
