@@ -2,11 +2,8 @@
 photo: nous.jpg
 title: Marion et Clement
 ---
-[marion_laure@hotmail.com](mailto:marion_laure@hotmail.com)
-[06 33 56 64 12](tel:+33633566412)
+[<i class="fa fa-envelope"></i> marion_laure@hotmail.com](mailto:marion_laure@hotmail.com) - [<i class="fa fa-phone"></i> 06 33 56 64 12](tel:+33633566412)
 
-[clement.dietschy@gmail.com](mailto:clement.dietschy@gmail.com)
-[06 87 75 99 27](tel:+33687759927)
+[<i class="fa fa-envelope"></i> clement.dietschy@gmail.com](mailto:clement.dietschy@gmail.com) - [<i class="fa fa-phone"></i> 06 87 75 99 27](tel:+33687759927)
 
-39 rue Saint-Fargeau,
-75020 Paris
+<i class="fa fa-home"></i> 39, rue Saint-Fargeau, 75020 Paris

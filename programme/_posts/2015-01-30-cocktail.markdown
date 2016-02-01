@@ -2,4 +2,4 @@
 photo: cocktail.jpg
 title: Samedi, 17h
 ---
-Nous nous réunissons ensuite pour le cocktail dans la cour de l'Auberge du Bollenberg, [dans le vignoble de Westhalten](https://www.google.fr/maps/place/Auberge+Au+Vieux+Pressoir,+Domaine+du+Bollenberg,+68250+Westhalten/@47.9449993,7.2618785,15z/).!
+Nous nous réunissons ensuite pour le cocktail dans la cour de l'[Auberge du Bollenberg, dans le vignoble de Westhalten](https://www.google.fr/maps/place/Auberge+Au+Vieux+Pressoir,+Domaine+du+Bollenberg,+68250+Westhalten/@47.9449993,7.2618785,15z/).

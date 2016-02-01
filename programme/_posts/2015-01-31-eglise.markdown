@@ -2,4 +2,4 @@
 photo: eglise.jpg
 title: Samedi, 14h30
 ---
-La cérémonie religieuse aura lieu au Sacré-Coeur de Mulhouse, [86 rue de Verdun](https://www.google.fr/maps/place/86+Rue+de+Verdun,+68100+Mulhouse/@47.7364359,7.3352132,17z/).
+La cérémonie religieuse aura lieu à l'[Église du Sacré-Coeur, 86 rue de Verdun, à Mulhouse](https://www.google.fr/maps/place/86+Rue+de+Verdun,+68100+Mulhouse/@47.7364359,7.3352132,17z/).

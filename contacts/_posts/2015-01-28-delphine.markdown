@@ -2,5 +2,4 @@
 photo: delphine.jpg
 title: Delphine Galiano
 ---
-[delf555@hotmail.fr](mailto:delf555@hotmail.fr)
-[06 42 11 66 55](tel:+33642116655)
+[<i class="fa fa-envelope"></i> delf555@hotmail.fr](mailto:delf555@hotmail.fr) - [<i class="fa fa-phone"></i> 06 42 11 66 55](tel:+33642116655)
