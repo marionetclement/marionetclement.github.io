@@ -42,14 +42,16 @@ a {
 	color: #26396d;
 	text-decoration: none;
 	outline: none;
+	-webkit-transition: opacity 0.2s;
+	transition: opacity 0.2s;
 }
 
 figcaption a, p.back a {
 	color: #f57857;
 }
 
-a:hover {
-	color: #26396d;
+a:hover, figcaption a:hover, p.back a:hover {
+	opacity: 0.7;
 }
 
 .container > header {

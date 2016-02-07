@@ -49,6 +49,10 @@
 	width:75%;
 }
 
+.grid li.rsvp {
+	width:100%;
+}
+
 .grid figure {
 	padding: 15px;
 	-webkit-transition: opacity 0.2s;
@@ -266,6 +270,10 @@ span.nav-close:before {
 		width:66.6%;
 	}
 
+	.grid li.rsvp {
+		width:100%;
+	}
+
 	.slideshow li {
 		width: 100%;
 		height: 100%;
@@ -293,13 +301,13 @@ span.nav-close:before {
 }
 
 @media screen and (max-width: 40em) {
-	.grid li, .grid li.expand {
+	.grid li, .grid li.expand, .grid li.rsvp {
 		width: 50%;
 	}
 }
 
 @media screen and (max-width: 30em) {
-	.grid li, .grid li.expand  {
+	.grid li, .grid li.expand, .grid li.rsvp  {
 		width: 100%;
 	}
 }
