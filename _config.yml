@@ -1,5 +1,4 @@
 name: Marion et Clement
-markdown: redcarpet
 highlighter: pygments
 permalink: /:category/:title/
 url: http://marionetclement.net
