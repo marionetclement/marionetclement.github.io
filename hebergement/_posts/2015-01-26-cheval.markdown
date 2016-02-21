@@ -1,0 +1,7 @@
+---
+photo: cheval-blanc-westhalten.jpg
+title: Auberge du Cheval Blanc<br/><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+---
+[<i class="fa fa-map-marker"></i> 20 Rue de Rouffach, Westhalten](https://www.google.fr/maps/place/Auberge+du+Cheval+Blanc/@47.9571984,7.2599604,15z/) - 
+[<i class="fa fa-hand-o-right"></i> auberge-chevalblc.com](http://www.auberge-chevalblc.com/) - 
+[<i class="fa fa-phone"></i> 03 89 47 01 16](tel:+33389470116)

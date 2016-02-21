@@ -1,0 +1,9 @@
+---
+photo: mercure-mulhouse.jpg
+title: Hotel Mercure Mulhouse Centre<br/><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+---
+Attention, 40 minutes de route ! Mais juste en face de la gare de Mulhouse.
+
+[<i class="fa fa-map-marker"></i> 4 Place du Général de Gaulle, Mulhouse](https://www.google.fr/maps/place/Hotel+Mercure+Mulhouse+Centre/@47.7436609,7.3418541,15z) - 
+[<i class="fa fa-hand-o-right"></i> accorhotels.com](http://www.accorhotels.com/fr/hotel-1264-hotel-mercure-mulhouse-centre/index.shtml) - 
+[<i class="fa fa-phone"></i> 03 89 36 29 39](tel:+33389362939)

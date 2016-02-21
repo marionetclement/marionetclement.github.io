@@ -1,0 +1,7 @@
+---
+photo: ville-lyon-rouffach.jpg
+title: Hostellerie a la ville de Lyon<br/><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+---
+[<i class="fa fa-map-marker"></i> 21 Rue Raymond Poincaré, Rouffach](https://www.google.fr/maps/place/Hostellerie+A+La+Ville+De+Lyon/@47.9615657,7.2977593,15z) - 
+[<i class="fa fa-hand-o-right"></i> alavilledelyon.eu](http://www.alavilledelyon.eu/) - 
+[<i class="fa fa-phone"></i> 03 89 49 65 51](tel:+33389496551)

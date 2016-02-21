@@ -1,4 +1,0 @@
----
-photo: blue.png
-title: Bientot...
----

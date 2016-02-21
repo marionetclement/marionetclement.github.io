@@ -1,0 +1,7 @@
+---
+photo: relais-alsace-rouffach.jpg
+title: Au relais d'Alsace<br/><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+---
+[<i class="fa fa-map-marker"></i> Mittler Befand, Rouffach](https://www.google.fr/maps/place/Au+Relais+d'Alsace/@47.9436596,7.2871274,15z/) - 
+[<i class="fa fa-hand-o-right"></i> aurelaisdalsace.com](http://www.aurelaisdalsace.com/) - 
+[<i class="fa fa-phone"></i> 03 89 49 66 32](tel:+33389496632)
