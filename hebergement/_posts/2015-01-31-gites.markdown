@@ -2,15 +2,13 @@
 photo: gite-soultzmatt.jpg
 title: Quelques gites
 ---
-Voici une liste non-exhaustive de gites aux alentours.
+Voici une liste non-exhaustive de gîtes aux alentours.
 
-[<i class="fa fa-hand-o-right"></i> Gîte de France](http://www.gites-de-france.com/liste.html?lieucgi=Westhalten&INSEE=68364&distcomm=10&deb=17%2F06%2F2016&fin=20%2F06%2F2016&nbp_min=n&lno=R%E9f%E9rence&lnoident=)
+[<i class="fa fa-hand-o-right"></i> Gîtes de France](http://www.gites-de-france.com/liste.html?lieucgi=Westhalten&INSEE=68364&distcomm=10&deb=17%2F06%2F2016&fin=20%2F06%2F2016&nbp_min=n&lno=R%E9f%E9rence&lnoident=)
 
-[<i class="fa fa-hand-o-right"></i> Gites les Berges de l'Ohmbach](http://www.cybevasion.fr/go_annonce.php?id_annonce=36950&from_source=gites.fr)
+[<i class="fa fa-hand-o-right"></i> Gîtes et Chambres d'hôte Fugler](http://www.gites.fr/gites_gites--chambes-d-hotes-fugler_orschwihr_h302374.htm)
 
-[<i class="fa fa-hand-o-right"></i> Gîtes et Chambre d'hôte Fugler](http://www.gites.fr/gites_gites--chambes-d-hotes-fugler_orschwihr_h302374.htm)
-
-[<i class="fa fa-hand-o-right"></i> Chambres d'hôte chez Walter Lucie et  Paul](http://www.chambres-hotes.fr/chambres-hotes_chambre-jonquille_westhalten_9265.htm)
+[<i class="fa fa-hand-o-right"></i> Chambres d'hôtes chez Walter Lucie et  Paul](http://www.chambres-hotes.fr/chambres-hotes_chambre-jonquille_westhalten_9265.htm)
 
 
 
