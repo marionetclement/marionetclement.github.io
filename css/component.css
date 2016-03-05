@@ -122,9 +122,9 @@
 .slideshow li {
 	width: 900px;
 	position: absolute;
-	top: 50%;
+	top: 0;
 	left: 50%;
-	margin: -25% 0 0 -450px;
+	margin: 50px 0 0 -450px;
 	visibility: hidden;
 }
 
@@ -156,7 +156,7 @@
 	height: 100%;
 	background: #fff;
 	border: 50px solid #fff;
-	overflow: hidden;
+	overflow: auto;
 }
 
 .slideshow figcaption {
@@ -280,6 +280,7 @@ span.nav-close:before {
 		top: 0;
 		left: 0;
 		margin: 0;
+		overflow: auto;
 	}
 
 	.slideshow li figure img {
