@@ -120,12 +120,12 @@
 }
 
 .slideshow li {
-	width: 800px;
-	height: 600px;
+	width: 700px;
+	height: 500px;
 	position: absolute;
 	top: 0;
 	left: 50%;
-	margin: 50px 0 0 -300px;
+	margin: 50px 0 0 -350px;
 	visibility: hidden;
 }
 
