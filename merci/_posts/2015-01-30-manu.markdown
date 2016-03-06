@@ -1,0 +1,7 @@
+---
+photo: manu.jpg
+title: Emmanuelle Raas
+---
+Conception et réalisation graphique (et beaucoup de sang-froid).
+
+[<i class="fa fa-envelope"></i> eraas.design@gmail.com](mailto:eraas.design@gmail.com) - [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/emmanuelle-raas-6a174287)

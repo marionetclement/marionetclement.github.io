@@ -1,5 +1,5 @@
 ---
-photo: nous.jpg
+photo: nous2.jpg
 title: Nous
 ---
 C'est le 22 juin 2013 à Paris que nous nous (re)rencontrons.
