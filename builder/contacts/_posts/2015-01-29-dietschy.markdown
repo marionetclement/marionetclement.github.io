@@ -1,9 +1,0 @@
----
-photo: dietschy.jpg
-title: Sabine et Denis
----
-[<i class="fa fa-envelope"></i> dr.dietschy@orange.fr](mailto:dr.dietschy@orange.fr) - [<i class="fa fa-phone"></i> 06 09 71 56 74](tel:+33609715674)
-
-[<i class="fa fa-envelope"></i> denis.dietschy@gmail.com](mailto:denis.dietschy@gmail.com) - [<i class="fa fa-phone"></i> 06 80 03 26 47](tel:+33680032647)
-
-<i class="fa fa-home"></i> 17, rue des merles, 68870 Bartenheim

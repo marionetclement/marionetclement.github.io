@@ -1,5 +1,0 @@
----
-photo: jessy.jpg
-title: Jessy Cyganczuk
----
-[<i class="fa fa-envelope"></i> jeessy@gmail.com](mailto:jeessy@gmail.com) - [<i class="fa fa-phone"></i> 06 29 97 51 13](tel:+33629975113)

@@ -1,7 +1,0 @@
----
-photo: klein-soultzmatt.jpg
-title: Logis Hotel Klein<br/><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
----
-[<i class="fa fa-map-marker"></i> 44 Rue de la Vallée, Soultzmatt](https://www.google.fr/maps/place/Logis+Hôtel+Klein/@47.9608869,7.239022,15z/) - 
-[<i class="fa fa-hand-o-right"></i> hotel-restaurant-klein.com](http://www.hotel-restaurant-klein.com/) - 
-[<i class="fa fa-phone"></i> 03 89 47 00 10](tel:+33389470010)

@@ -1,7 +1,0 @@
----
-photo: vallee-noble-soultzmatt.jpg
-title: Logis Hotel de la Vallee Noble<br/><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
----
-[<i class="fa fa-map-marker"></i> Finkerwaldele, Soultzmatt](https://www.google.fr/maps/place/Logis+Hôtel+de+la+Vallée+Noble/@47.9686918,7.2119192,15z/) - 
-[<i class="fa fa-hand-o-right"></i> valleenoble.com](http://www.valleenoble.com/fr/) - 
-[<i class="fa fa-phone"></i> 03 89 47 65 65](tel:+33389476565)

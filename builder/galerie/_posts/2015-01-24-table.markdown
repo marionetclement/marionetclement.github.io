@@ -1,6 +1,0 @@
----
-photo: table.jpg
-title: A table
----
-Mmmh, les bonnes confitures [Re-Belle](http://www.confiturerebelle.fr/).<br/>
-Toutes les photos se trouvent **[par ici](https://goo.gl/photos/4d45oQRGkHBfLs3r8)**.

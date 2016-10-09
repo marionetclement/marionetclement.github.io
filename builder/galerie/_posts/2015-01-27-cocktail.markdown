@@ -1,6 +1,0 @@
----
-photo: remi.jpg
-title: Cocktail
----
-La tarte flambée fut un succès !<br/>
-Toutes les photos se trouvent **[par ici](https://goo.gl/photos/4d45oQRGkHBfLs3r8)**.

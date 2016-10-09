@@ -1,5 +1,0 @@
----
-photo: antoine.jpg
-title: Antoine Jean
----
-[<i class="fa fa-envelope"></i> antoine.jean5@gmail.com](mailto:antoine.jean5@gmail.com) - [<i class="fa fa-phone"></i> 06 80 35 65 70](tel:+33680356570)

@@ -1,7 +1,0 @@
----
-photo: fermaut.jpg
-title: Claire et Jean-Marie
----
-[<i class="fa fa-envelope"></i> jean-marie.fermaut@wanadoo.fr](jean-marie.fermaut@wanadoo.fr) - [<i class="fa fa-phone"></i> 03 89 45 66 24](tel:+33389456624)
-
-<i class="fa fa-home"></i> 2, rue de la Sinne, 68100 Mulhouse

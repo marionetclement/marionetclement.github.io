@@ -1,6 +1,0 @@
----
-photo: fous.jpg
-title: Trop facile
----
-Légers comme des plumes !<br/>
-Toutes les photos se trouvent **[par ici](https://goo.gl/photos/4d45oQRGkHBfLs3r8)**.

@@ -1,5 +1,0 @@
----
-photo: osaka.jpg
-title: Osaka
----
-Soirée champagne imprévue dans un mini-bar à Whiskey du centre d'Osaka.

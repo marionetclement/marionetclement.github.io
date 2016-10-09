@@ -1,5 +1,0 @@
----
-photo: tout.jpg
-title: Tout voir
----
-Toutes les photos se trouvent **[par ici](https://goo.gl/photos/4d45oQRGkHBfLs3r8)**. Merci au gentils photographes !
