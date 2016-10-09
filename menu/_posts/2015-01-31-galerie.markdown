@@ -1,0 +1,4 @@
+---
+photo: galerie.jpg
+---
+Toutes les photos !

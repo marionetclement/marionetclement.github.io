@@ -1,0 +1,5 @@
+---
+photo: kyoto.jpg
+title: Kyoto
+---
+Tiens, un temple ! À Kyoto ? Quelle surprise :-)
